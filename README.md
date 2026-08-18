@@ -23,7 +23,7 @@ int main()
         cout << endl; 
     }
 
-    system("pause");
+    return 0;
 }
 
 
@@ -55,5 +55,5 @@ int main()
         cout << x[j] << endl;
     }
 
-    system("pause");
+    return 0;
 }
